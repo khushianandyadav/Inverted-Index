@@ -77,5 +77,5 @@ It’s ideal for:
 
 ---
 
-## 👨‍💻 Author  
+##  Author  
 Developed as a **hands-on exploration of Information Retrieval concepts** using Python.  
