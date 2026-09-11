@@ -74,8 +74,3 @@ It’s ideal for:
 - Ranking results with TF-IDF.  
 - Support for larger datasets & file input.  
 - Performance optimizations using advanced data structures.  
-
----
-
-##  Author  
-Developed as a **hands-on exploration of Information Retrieval concepts** using Python.  
