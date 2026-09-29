@@ -1,6 +1,6 @@
 #  Inverted Index with Python  
 
- A simple yet powerful Python implementation of an **Inverted Index** – the fundamental data structure behind modern **search engines** and **document retrieval systems**.  
+ A simple yet powerful Python implementation of an **Inverted Index** which is the fundamental data structure behind modern **search engines** and **document retrieval systems**.  
 
 ---
 
@@ -8,7 +8,7 @@
 An **inverted index** maps words (tokens) to the list of documents that contain them.  
 This makes searching much faster compared to scanning entire documents sequentially.  
 
-Think of it as the **index at the back of a book** – you look up a keyword and directly find the relevant pages.  
+Think of it as the **index at the back of a book** where you look up a keyword and directly find the relevant pages.  
 
 ---
 
